@@ -4,12 +4,13 @@ import './index.css';
 import{BrowserRouter, Routes, Route} from "react-router-dom";
 
 import Homepage from './Landing_Page/home/HomePage';
-// import auth from './Landing_Page/auth/AuthPage';
+
 import AboutPage from './Landing_Page/about/AboutPage';
 import ProductPage from './Landing_Page/product/ProductPage';
 import PricingPage from './Landing_Page/pricing/PricingPage';
 import SupportPage from './Landing_Page/support/SupportPage';
 import Navbar,{ScrollToTop} from './Landing_Page/Navbar';
+
 import Footer from './Landing_Page/Footer';
 
 import NotFound from './Landing_Page/NotFound';

@@ -1,15 +1,15 @@
 import React from 'react';
-import Navbar from '../Navbar';
+
 import LeftSection from './LeftSection';
 import RightSection from './RightSection';
-import Footer from '../Footer';
+
 import Universe from './Universe';
 import Hero from './Hero';
 
 function ProductPage() {
     return ( 
         <>
-        {/* <Navbar/> */}
+       
         <Hero/>
 
          <LeftSection
@@ -61,7 +61,7 @@ function ProductPage() {
       </p>
 
        <Universe/>
-         {/* <Footer/> */}
+       
         </>
        
      );
