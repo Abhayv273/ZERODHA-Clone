@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "ZerodhaClone",
   "license": "ISC",
-  "author": "",
+  "author": "abhay",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
