@@ -40,8 +40,6 @@ root.render(
 
 
 
-  /* // <React.StrictMode>
-  //   <Homepage/>
-  // </React.StrictMode> */
+  
 );
 

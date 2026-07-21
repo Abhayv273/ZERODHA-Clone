@@ -3,7 +3,7 @@ import axios from "axios";
 
 
 
-// import { positions } from "../data/data";
+
 
 const Positions = () => {
 

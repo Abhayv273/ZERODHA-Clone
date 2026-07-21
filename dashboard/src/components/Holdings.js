@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import axios from "axios";
 import { VerticalBarGraph } from "./VerticalBarGraph";
 
-// import {holdings} from "../data/data";
+
 
 const Holdings = () => {
 //  for connect data with interface/dashboard

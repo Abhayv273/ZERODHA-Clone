@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { Route, Routes } from "react-router-dom";
 import ProtectedRoute from "./ProtectedRoute.js"; 
-// import Apps from "./Apps";
+
 import Funds from "./Funds";
 import Holdings from "./Holdings";
 import Orders from "./Orders";

@@ -33,8 +33,8 @@ function Team() {
           <p className='ceolink'>
             Connect on &nbsp;
             <a href="/" >Homepage</a> | &nbsp;
-             <a href="">TradingQnA</a> |&nbsp;
-            <a href="#" >Twitter</a>
+             <a href="/">TradingQnA</a> |&nbsp;
+            <a href="/" >Twitter</a>
         
           </p>
         </div>
