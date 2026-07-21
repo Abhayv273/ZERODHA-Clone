@@ -1,0 +1,99 @@
+
+   Step Pages
+
+
+.auth-step-container {
+    min-height: 85vh;
+    display: flex;
+    align-items: center;
+}
+
+.auth-step-container .card {
+    border: none;
+    border-radius: 18px;
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
+}
+
+.auth-step-container h2 {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #222;
+}
+
+.auth-step-container p {
+    color: #6c757d;
+    font-size: 15px;
+}
+
+.auth-step-container .form-control,
+.auth-step-container .form-select {
+    height: 50px;
+    border-radius: 10px;
+    border: 1px solid #dcdcdc;
+    font-size: 15px;
+    transition: .3s;
+}
+
+.auth-step-container .form-control:focus,
+.auth-step-container .form-select:focus {
+    border-color: #387ed1;
+    box-shadow: 0 0 0 .2rem rgba(56,126,209,.15);
+}
+
+.auth-step-container .btn {
+    padding: 10px 28px;
+    border-radius: 10px;
+    font-weight: 600;
+}
+
+.auth-step-container .btn-primary {
+    background: #387ed1;
+    border: none;
+}
+
+.auth-step-container .btn-primary:hover {
+    background: #2f6fc0;
+}
+
+.auth-step-container .auth-image {
+    width: 100%;
+    max-width: 430px;
+}
+
+@media (max-width:992px){
+
+.auth-step-container{
+    padding:30px 15px;
+}
+
+.auth-step-container .auth-image{
+    max-width:300px;
+    margin-bottom:30px;
+}
+
+.auth-step-container .card{
+    margin-top:20px;
+}
+
+}
+
+@media(max-width:576px){
+
+.auth-step-container .card{
+    padding:25px !important;
+}
+
+.auth-step-container h2{
+    font-size:1.6rem;
+}
+
+.auth-step-container .btn{
+    width:100%;
+    margin-top:10px;
+}
+
+.auth-step-container .d-flex{
+    flex-direction:column;
+}
+
+}
