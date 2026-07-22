@@ -81,14 +81,14 @@ function Footer() {
             no.: INZ000038238 Registered Address: Zerodha Broking Ltd.,
             #153/154, 4th Cross, Dollars Colony, Opp. Clarence Public School,
             J.P Nagar 4th Phase, Bengaluru - 560078, Karnataka, India. For any
-            complaints pertaining to securities broking please write to<a href=''>complaints@zerodha.com</a>
-            , for DP related to <a href=''>dp@zerodha.com.</a> Please
+            complaints pertaining to securities broking please write to<a href='/'>complaints@zerodha.com</a>
+            , for DP related to <a href='/'>dp@zerodha.com.</a> Please
             ensure you carefully read the Risk Disclosure Document as prescribed
             by SEBI | ICF
           </p>
 
           <p>
-            Procedure to file a complaint on <a href=''>SEBI SCORES</a>: Register on SCORES
+            Procedure to file a complaint on <a href='/'>SEBI SCORES</a>: Register on SCORES
             portal. Mandatory details for filing complaints on SCORES: Name,
             PAN, Address, Mobile Number, E-mail ID. Benefits: Effective
             Communication, Speedy redressal of the grievances
@@ -105,7 +105,7 @@ function Footer() {
             information of your transactions directly from Exchange on your
             mobile/email at the end of the day. Issued in the interest of
             investors. KYC is one time exercise while dealing in securities
-            markets - once <a href=''>KYC</a> is done through a SEBI registered intermediary
+            markets - once <a href='/'>KYC</a> is done through a SEBI registered intermediary
             (broker, DP, Mutual Fund etc.), you need not undergo the same
             process again when you approach another intermediary." Dear
             Investor, if you are subscribing to an IPO, there is no need to
@@ -115,7 +115,7 @@ function Footer() {
             bank account. As a business we don't give stock tips, and have not
             authorized anyone to trade on behalf of others. If you find anyone
             claiming to be part of Zerodha and offering such services, please
-            <a href=''>create a ticket here</a>.
+            <a href='/'>create a ticket here</a>.
           </p>
         </div>
       </div>
