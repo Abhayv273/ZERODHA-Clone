@@ -79,7 +79,6 @@ const AnalyticsWindow = ({ uid, onClose }) => {
 
   return (
     <> 
-    <p>Note:This Statics may not be True .But came from live Api data(limit) & used for only development practice </p>
       <div
         onClick={onClose}
         style={{
